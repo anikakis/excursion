@@ -15,7 +15,24 @@ h1 {
   color: White;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
 .dload {
   color: Aquamarine;
   font-size: 16px;
+}
+
+#content {
+  font-size: 21px;
+  color: Grey;
+}
+
+#copy {
+  font-size: 21px;
+  color: Grey;
+  text-align: right;
 }
